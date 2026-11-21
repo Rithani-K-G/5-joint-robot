@@ -76,14 +76,14 @@
     <visual>
       <origin xyz="0 0 0.0286" rpy="-3.141592654 0 -0.159097"/>
       <geometry>
-        <mesh filename="package://five_joint_description/cad/Arm%2001.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://five_joint_description/cad/Arm_01.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="dark_grey"/>
     </visual>
     <collision>
       <origin xyz="0 0 0.0286" rpy="-3.141592654 0 -0.159097"/>
       <geometry>
-        <mesh filename="package://five_joint_description/cad/Arm%2001.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://five_joint_description/cad/Arm_01.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
     <inertial>
@@ -99,14 +99,14 @@
     <visual>
       <origin xyz="0.004527 -0.034454 0.0004" rpy="-3.141592654 0 -1.440155"/>
       <geometry>
-        <mesh filename="package://five_joint_description/cad/Arm%2002.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://five_joint_description/cad/Arm_02.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="light_grey"/>
     </visual>
     <collision>
       <origin xyz="0.004527 -0.034454 0.0004" rpy="-3.141592654 0 -1.440155"/>
       <geometry>
-        <mesh filename="package://five_joint_description/cad/Arm%2002.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://five_joint_description/cad/Arm_02.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
     <inertial>
@@ -122,14 +122,14 @@
     <visual>
       <origin xyz="0.002235 0.004473 0.014792" rpy="1.570796327 0 1.107371"/>
       <geometry>
-        <mesh filename="package://five_joint_description/cad/Arm%2003.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://five_joint_description/cad/Arm_03.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="dark_grey"/>
     </visual>
     <collision>
       <origin xyz="0.002235 0.004473 0.014792" rpy="1.570796327 0 1.107371"/>
       <geometry>
-        <mesh filename="package://five_joint_description/cad/Arm%2003.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://five_joint_description/cad/Arm_03.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
     <inertial>
