@@ -3,7 +3,7 @@
 
   <!-- Arm planning group -->
   <group name="arm">
-    <chain base_link="base_link" tip_link="tool0"/>
+    <chain base_link="base_link" tip_link="arm_03_link"/>
   </group>
 
   <!-- Home position -->

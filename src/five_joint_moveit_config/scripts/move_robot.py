@@ -26,7 +26,7 @@ from pymoveit2 import MoveIt2
 JOINT_NAMES = ["base_joint", "shoulder_joint", "elbow_joint", "wrist_joint"]
 
 BASE_LINK = "base_link"
-END_EFFECTOR_LINK = "tool0"
+END_EFFECTOR_LINK = "arm_03_link"
 PLANNING_GROUP = "arm"
 
 
@@ -49,7 +49,7 @@ def main():
 
     print("\n=== Five-joint robot: XYZ motion using MoveIt 2 ===")
     print("Reference frame: base_link")
-    print("End-effector: tool0")
+    print("End-effector: arm_03_link")
     print("Units: metres\n")
 
     # Read the target coordinates.
