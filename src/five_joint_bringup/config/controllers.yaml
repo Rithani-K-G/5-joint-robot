@@ -12,11 +12,10 @@ controller_manager:
 arm_controller:
   ros__parameters:
     joints:
-      - base_link
-      - shoulder_link
-      - upper_arm_link
-      - fore_arm_link
-      - wrist_link
+      - base_joint
+      - shoulder_joint
+      - elbow_joint
+      - wrist_joint
     command_interfaces:
       - position
     state_interfaces:

@@ -23,7 +23,7 @@ from pymoveit2 import MoveIt2
 
 
 # These values must match the five-joint robot's configuration.
-JOINT_NAMES = ["base_joint", "shoulder_joint", "elbow_joint", "wrist_joint", "end_effector_joint"]
+JOINT_NAMES = ["base_joint", "shoulder_joint", "elbow_joint", "wrist_joint"]
 
 BASE_LINK = "base_link"
 END_EFFECTOR_LINK = "tool0"
